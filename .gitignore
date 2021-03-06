@@ -75,3 +75,5 @@ HELP.md
 *.iml
 mvnw
 mvnw.cmd
+
+target/*
